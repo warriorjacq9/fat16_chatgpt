@@ -116,4 +116,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or support, please open an issue on GitHub or contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or support, please open an issue on GitHub.
+
+## Disclaimer
+
+This code was made ENTIRELY by ChatGPT, and I do not take any credit whatsoever for it failing or working incredibly well. If you find issues, please still report them, and I will make ChatGPT fix it. Even this README (except this disclaimer of course) was made by ChatGPT
